@@ -1,6 +1,6 @@
 # Marmeto-Assessment-L2
 
-Desciption :
+Description :
 The project aimed to create a user-friendly online clothing webpage where users can browse through the available colours and sizes of the product, add items to their cart and complete the purchase.
 
 Technologies Used :
